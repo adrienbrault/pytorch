@@ -53,7 +53,7 @@ See also the [CI HUD at hud.pytorch.org](https://hud.pytorch.org/ci/pytorch/pyto
 
 ## More About PyTorch
 
-At a granular level, PyTorch is a library that consists of the following components:
+At a granular levowing components:
 
 | Component | Description |
 | ---- | --- |
